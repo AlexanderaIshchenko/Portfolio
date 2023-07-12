@@ -22,14 +22,14 @@
   
 <tr>
 <td><b>1</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/1.%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank"><b>Предобработка данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/1.%20Предобработка%20данных.ipynb" target="_blank">*</a></td>
+<td><a href= target="_blank"><b>Предобработка данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/1.%20Предобработка%20данных.ipynb" target="_blank">*</a></td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
 <td> <b>pandas, seaborn</b></td>
 </tr>
 
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb" target="_blank"><b>Исследовательский анализ данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20Исследовательский%20анализ%20данных.ipynb" target="_blank">*</a></td>
+<td><a href= target="_blank"><b>Исследовательский анализ данных</b></a><a href="https://nbviewer.jupyter.org/github/ilkaxd/Yandex-Practicum-Data-Scientist/blob/main/2.%20Исследовательский%20анализ%20данных.ipynb" target="_blank">*</a></td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>pandas</b>, <b>matplotlib</b></td>
 </tr>
