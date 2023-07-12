@@ -106,7 +106,7 @@
 
 <tr>
 <td><b>13</b></td>
-<td><a href="XXX" target="_blank"><b>Извлечение данных</b></a></td>
+<td><a href="XXX" target="_blank"><b>Базовый SQL</b></a></td>
 <td>Описание</td>
 <td><b>Библиотеки</b>, <b>Библиотеки</b></td>
 </tr>
