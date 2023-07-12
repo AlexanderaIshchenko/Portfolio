@@ -7,7 +7,6 @@
  <body>
 <h1><a href="https://praktikum.yandex.ru/data-scientist/" target="_blank">Яндекс.Практикум "Специалист по Data Science"</a></h1>
 <br/><br/>
-Если .ipynb на github не открывается, нажмите на * для перехода на  <a href="https://nbviewer.jupyter.org/" target="_blank">соответствующий ресурс</a>, на котором jupyter notebook загрузится, но будут ошибки в навигации по ссылки "к оглавлению"<br/>
 
 
 Остальные проекты:
