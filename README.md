@@ -108,7 +108,7 @@
 <td><b>13</b></td>
 <td><a href="XXX" target="_blank"><b>Базовый SQL</b></a></td>
 <td>Запросы к базе данных</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><b>обработка естественного языка, лемматизация, nltk, simplemma, tqdm, re, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 </body>
 
