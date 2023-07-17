@@ -116,14 +116,14 @@
 <td><b>14</b></td>
 <td><a href="XXX" target="_blank"><b>Компьютерное зрение</b></a></td>
 <td>Построить модель, которая по фотографии определит приблизительный возраст человека.</td>
-<td><b>`компьютерное зрение`, `keras`, `matplotlib`, `pandas`</b>, <b>Библиотеки</b></td>
+<td><b>компьютерное зрение, keras, matplotlib, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>15</b></td>
 <td><a href="XXX" target="_blank"><b>Выпускной проект</b></a></td>
 <td>Прогнозируем отток клиентов на основе исторических данных. Финальный проект.</td>
-<td><b> `градиентный бустинг`, `shap`, `tqdm`, `catboost`, `pipeline`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`</b>, <b>Библиотеки</b></td>
+<td><b>градиентный бустинг, tqdm, catboost, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 </table>
