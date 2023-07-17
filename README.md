@@ -24,35 +24,35 @@
 <td><b>1</b></td>
 <td><a href= target="_blank"><b>Предобработка данных</b></a></td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
-<td> <b>pandas, seaborn</b></td>
+<td> <b>лемматизация, pymystem3, seaborn, matplotlib, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>2</b></td>
 <td><a href= target="_blank"><b>Исследовательский анализ данных</b></a></td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
-<td><b>pandas</b>, <b>matplotlib</b></td>
+<td><b>math, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>3</b></td>
 <td><a href= target="_blank"><b>Статистический анализ данных</b></a></td>
 <td>Определяем перспективный тариф для телеком компании</td>
-<td><b>scipy</b>, <b>numpy</b></td>
+<td><b>проверка статистических гипотез, scipy, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>4</b></td>
 <td><a href= target="_blank"><b>Сборный Проект-1</b></a></td>
 <td>Анализируем успешность компьютерных игр</td>
-<td><b>pandas</b>, <b>seaborn</b></td>
+<td><b>проверка статистических гипотез, pandas-profiling, scipy, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>5</b></td>
 <td><a href= target="_blank"><b>Введение в машинное обучение</b></a></td>
 <td>Строим модель для прогнозирования тарифного плана для клиента солотового оператора</td>
-<td><b>scikit-learn</b>, <b>joblib</b></td>
+<td><b>sklearn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
@@ -66,49 +66,49 @@
 <td><b>7</b></td>
 <td><a href= target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
 <td>Выбираем регион для бурения нефтяных скважин</td>
-<td><b>scikit-learn</b>, <b>seaborn</b></td>
+<td><b>bootstrap, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>8</b></td>
 <td><a href= target="_blank"><b>Сборный проект-2</b></a></td>
 <td>Моделируем процесс восстановления золота из золотосодержащей руды с метрикой sMAPE</td>
-<td><b>scikit-learn</b>, <b>seaborn</b></td>
+<td><b>sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>9</b></td>
 <td><a href= target="_blank"><b>Линейная алгебра</b></a></td>
 <td>Шифруем данные с помощью обратимой матрицы</td>
-<td><b>numpy</b>, <b>scikit-learn</b></td>
+<td><b>sklearn, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>10</b></td>
 <td><a href= target="_blank"><b>Численные методы</b></a></td>
 <td>Прогнозируем рыночную цену автомобилей с использованием градиентного бустинга</td>
-<td><b>lightgbm</b>, <b>sklearn</b></td>
+<td><b>градиентный бустинг, lightgbm, sklearn, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>11</b></td>
 <td><a href= target="_blank"><b>Временные ряды</b></a></td>
 <td>Прогнозируем количество заказов такси на следующий час</td>
-<td><b>statsmodels</b>, <b>lightgbm</b></td>
+<td><b>временные ряды, statsmodels, sklearn, seaborn, matplotlib, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>12</b></td>
 <td><a href="XXX" target="_blank"><b>Машинное обучение для текстов</b></a></td>
 <td>Определение токсичности коментариев</td>
-<td><b>Библиотеки</b>, <b>Библиотеки</b></td>
+<td><b>обработка естественного языка, лемматизация, nltk, simplemma, tqdm, re, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>13</b></td>
 <td><a href="XXX" target="_blank"><b>Базовый SQL</b></a></td>
 <td>Запросы к базе данных</td>
-<td><b>обработка естественного языка, лемматизация, nltk, simplemma, tqdm, re, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
+<td><b> SQL </b></td>
 </tr>
 </body>
 
