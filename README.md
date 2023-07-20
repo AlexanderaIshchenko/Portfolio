@@ -121,7 +121,7 @@
 
 <tr>
 <td><b>15</b></td>
-<td><a href="XXX" target="_blank"><b>Выпускной проект</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_15/Телеком.ipynb" target="_blank"><b>Выпускной проект</b></a></td>
 <td>Прогнозируем отток клиентов на основе исторических данных. Финальный проект.</td>
 <td><b>градиентный бустинг, tqdm, catboost, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
