@@ -99,14 +99,14 @@
 
 <tr>
 <td><b>12</b></td>
-<td><a href="XXX" target="_blank"><b>Машинное обучение для текстов</b></a></td>
+<td><a href="" target="_blank"><b>Машинное обучение для текстов</b></a></td>
 <td>Определение токсичности коментариев</td>
 <td><b>обработка естественного языка, лемматизация, nltk, simplemma, tqdm, re, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>13</b></td>
-<td><a href="XXX" target="_blank"><b>Базовый SQL</b></a></td>
+<td><a href="" target="_blank"><b>Базовый SQL</b></a></td>
 <td>Запросы к базе данных</td>
 <td><b> SQL </b></td>
 </tr>
