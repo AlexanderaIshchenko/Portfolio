@@ -22,28 +22,28 @@
   
 <tr>
 <td><b>1</b></td>
-<td><a href="" target="_blank"><b>Предобработка данных</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_01/Исследование%20надежности%20заемщиков.ipynb" target="_blank"><b>Предобработка данных</b></a></td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
 <td> <b>лемматизация, pymystem3, seaborn, matplotlib, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>2</b></td>
-<td><a href="" target="_blank"><b>Исследовательский анализ данных</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_02/Исследование%20объявлений%20о%20продаже%20квартир.ipynb" target="_blank"><b>Исследовательский анализ данных</b></a></td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>math, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>3</b></td>
-<td><a href="" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_03/Сравнение%20доходности%20тарифов%20мобильного%20оператора.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
 <td>Определяем перспективный тариф для телеком компании</td>
 <td><b>проверка статистических гипотез, scipy, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>4</b></td>
-<td><a href="" target="_blank"><b>Сборный Проект-1</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_04/Исследование%20рынка%20игр.ipynb" target="_blank"><b>Сборный Проект-1</b></a></td>
 <td>Анализируем успешность компьютерных игр</td>
 <td><b>проверка статистических гипотез, pandas-profiling, scipy, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
@@ -64,14 +64,14 @@
 
 <tr>
 <td><b>7</b></td>
-<td><a href="" target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_07/Выбор%20локации%20для%20скважины.ipynb" target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
 <td>Выбираем регион для бурения нефтяных скважин</td>
 <td><b>bootstrap, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
 
 <tr>
 <td><b>8</b></td>
-<td><a href= target="_blank"><b>Сборный проект-2</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_08/Восстановление%20золота%20из%20руды.ipynb" target="_blank"><b>Сборный проект-2</b></a></td>
 <td>Моделируем процесс восстановления золота из золотосодержащей руды с метрикой sMAPE</td>
 <td><b>sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
@@ -92,7 +92,7 @@
 
 <tr>
 <td><b>11</b></td>
-<td><a href="" target="_blank"><b>Временные ряды</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_11/Прогнозирование%20заказов%20такси.ipynb" target="_blank"><b>Временные ряды</b></a></td>
 <td>Прогнозируем количество заказов такси на следующий час</td>
 <td><b>временные ряды, statsmodels, sklearn, seaborn, matplotlib, pandas</b></td>
 </tr>
@@ -106,7 +106,7 @@
 
 <tr>
 <td><b>13</b></td>
-<td><a href="" target="_blank"><b>Базовый SQL</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_13/SQL.ipynb" target="_blank"><b>Базовый SQL</b></a></td>
 <td>Запросы к базе данных</td>
 <td><b> SQL </b></td>
 </tr>
