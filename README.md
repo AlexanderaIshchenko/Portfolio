@@ -99,7 +99,7 @@
 
 <tr>
 <td><b>12</b></td>
-<td><a href="" target="_blank"><b>Машинное обучение для текстов</b></a></td>
+<td><a href="https://github.com/AlexanderaIshchenko/Portfolio/blob/main/Project_12/Классификатор%20комментариев.ipynb" target="_blank"><b>Машинное обучение для текстов</b></a></td>
 <td>Определение токсичности коментариев</td>
 <td><b>обработка естественного языка, лемматизация, nltk, simplemma, tqdm, re, pipeline, sklearn, seaborn, matplotlib, numpy, pandas</b></td>
 </tr>
